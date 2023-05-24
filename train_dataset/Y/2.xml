@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OCR_python</folder>
+	<filename>2.png</filename>
+	<path>/home/vito/Desktop/OCR_python/2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>771</ymin>
+			<xmax>830</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+</annotation>
